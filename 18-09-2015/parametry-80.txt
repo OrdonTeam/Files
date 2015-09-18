@@ -1,0 +1,10 @@
+Sampling period = 80
+
+Time vector length = 1000 
+
+Wave Speer = 2000
+
+Number of sensors=9 
+
+Frame size =100
+
